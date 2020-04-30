@@ -1,0 +1,20 @@
+{
+  "name": "vue-cli-plugin-joykit",
+  "version": "0.1.0",
+  "description": "",
+  "main": "prompts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "qixiyu",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^7.1.0"
+  },
+  "devDependencies": {
+    "shelljs": "^0.8.4"
+  }
+}
